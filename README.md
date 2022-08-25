@@ -1,3 +1,7 @@
+DUring this challenge I had the opportunity to learn about express.js. I had a lot of struggles along the way, but was able to make out some of the work. I got stuck a lot but am submitting what I can and hope to learn more in the future. I was able to complete the grading reuqiremnets and much of the acceptance criteria.
+
+Repository: https://github.com/colinale/Express.js-Challenge-Note-Taker
+
 ## Acceptance Criteria
 
 ```
